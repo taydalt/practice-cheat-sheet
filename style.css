@@ -1,0 +1,35 @@
+body {
+  background-color: #EDFFF2;
+  font-family: Helvetica;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+h2 {
+  text-align: center;
+  color: #028F28;
+}
+
+.code-tags, .code-attributes {
+  font-family: monospace;
+  background-color: #FFF;
+}
+
+table {
+  width: 85%;
+  margin: 0 auto;
+}
+
+table, th, td {
+  border: solid #028F28;
+  border-collapse: collapse;
+  padding: 5px 5px;
+}
+
+td.description {
+  font-style: italic;
+  line-height: 1.3;
+}
